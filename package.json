@@ -65,7 +65,7 @@
   "devDependencies": {
     "@commitlint/cli": "^19.8.0",
     "@commitlint/config-conventional": "^19.8.0",
-    "@dcloudio/types": "^3.4.8",
+    "@dcloudio/types": "^3.4.19",
     "@dcloudio/uni-automator": "3.0.0-4080720251210001",
     "@dcloudio/uni-cli-shared": "3.0.0-4080720251210001",
     "@dcloudio/uni-stacktracey": "3.0.0-4080720251210001",
@@ -95,7 +95,7 @@
     "stylelint-config-recommended-scss": "^14.1.0",
     "stylelint-config-recommended-vue": "^1.6.0",
     "stylelint-prettier": "^5.0.3",
-    "typescript": "^4.9.4",
+    "typescript": "^5.9.3",
     "typescript-eslint": "^8.27.0",
     "unocss": "66.1.0-beta.6",
     "unocss-preset-weapp": "^66.0.0",
